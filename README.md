@@ -7,9 +7,9 @@ First, run the schema file, named "COVIDSCHEMA.sql". Next, run the data files in
 After all 5 files are run, you may run queries.
 
 1.) "COVIDDATA1" = Patients Table
-2.) "COVIDDATA1" = Outcomes Table
-3.) "COVIDDATA1" = Locations Table
-4.) "COVIDDATA1" = Caregivers Table
+2.) "COVIDDATA2" = Outcomes Table
+3.) "COVIDDATA3" = Locations Table
+4.) "COVIDDATA4" = Caregivers Table
 5.) "SAMPLEQUERIES" = 10 Test Cases
 
 DATA SOURCES ORIGINS:
