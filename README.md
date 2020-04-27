@@ -6,7 +6,7 @@ INSTRUCTIONS:
 First, run the schema file, named "COVIDSCHEMA.sql". Next, run the data files in the order in which they are numbered.
 After all 5 files are run, you may run queries.
 
-DATA SOURCES:
+DATA SOURCES ORIGINS:
 COUNTY DATA: https://data.world/associatedpress/johns-hopkins-coronavirus-case-tracker 
 AGE and GENDER: https://www.worldometers.info/coronavirus/coronavirus-age-sex-demographics/ 
 FIRST NAMES: https://github.com/hadley/data-baby-names/blob/f4ffea097aaf8aac5d56aa34440827c9a1874ff9/baby-names.csv 
